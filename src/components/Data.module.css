@@ -1,0 +1,13 @@
+.text {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 40px;
+    color: white;
+}
+body {
+    background-color: black;
+}
+input {
+    color: black;
+    border-style: none;
+}
